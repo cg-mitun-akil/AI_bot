@@ -12,8 +12,11 @@ Bots that act like some famous characters ( Michael Scott from 'The Office', Ric
 10) Create a URL and add the bot to a Discord Server, and Enjoy!
 
 Reference Links: 
+
 https://huggingface.co/abhi-8/DialoGPT-medium-Michael?text=Hey+my+name+is+Julien%21+How+are+you%3F
+
 https://huggingface.co/abhi-8/DialoGPT-medium-Joshua-twevy?text=Hi.
+
 https://huggingface.co/abhi-8/DialoGPT-medium-Rick?text=Hey+my+name+is+Mariama%21+How+are+you%3F
 
 
