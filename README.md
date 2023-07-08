@@ -8,10 +8,10 @@ Bots that act like some famous characters ( Michael Scott from 'The Office', Ric
 6) Get an Access Token in HuggingFace and from a Discord Developer Application for the bot
 7) Create a Replit project and follow the main.py code ( modify the model name and add SECRET tokens of HUGGINGFACE and DISCORD
 8) Add the keep_alive.py to the project and run the main folder
-9) A URL is generated. Use this in a new Uptime Monitor to keep the page alive.
-
-(https://uptimerobot.com/)
+9) A URL is generated. Use this in a new Uptime Monitor to keep the page alive. (https://uptimerobot.com/)
 11) Create a URL and add the bot to a Discord Server, and Enjoy!
+
+Add my Bots to your server for free! Ping me for the same!
 
 Reference Links: 
 
