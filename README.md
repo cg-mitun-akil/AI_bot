@@ -1,5 +1,6 @@
 # AI_bot
 Bots that act like some famous characters ( Michael Scott from 'The Office', Rick from 'Rick and Morty', Yoshiya "Joshua" Kiryu from 'The work ends with you' Game )
+![Alt sample](https://photos.app.goo.gl/3sD5mUnvqbwQcf1k9)
 1) Collect Transcripts or Conversational Datasets from Kaggle
 2) Dataset in conversational order with columns 'name' and 'line'
 3) Follow model_train_upload code to create Dialow Flow GPT model in Huggingface
